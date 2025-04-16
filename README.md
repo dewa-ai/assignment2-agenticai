@@ -116,10 +116,11 @@ Action ANSWER; 1 USD = 16,807.19 Indonesian Rupiah (IDR).
 ---
 
 ## ✍️ Student Information
-
+```
 Slametian Dewa Tegar Perkasa 石柏楷 - 113527602
 International Graduate Program in AI
 National Central University (NCU)
 Taiwan
 
 GitHub: https://github.com/dewa-ai/assignment2-agenticai
+```
